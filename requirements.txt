@@ -1,0 +1,4 @@
+django==4.1.12
+mypy==1.4.0
+django-stubs==4.2.3
+django-stubs-ext==5.0.2
